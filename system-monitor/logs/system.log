@@ -1,0 +1,168 @@
+--- System Health Report (Thu Feb 26 11:59:02 PM IST 2026) ---
+CPU : 0.00%
+MEM : 0.00%
+DISK :37
+
+Top CPU processes:
+    PID COMMAND         %CPU
+   3859 firefox         17.4
+   2976 gnome-shell     11.1
+  17289 Isolated Web Co  6.5
+  24771 Isolated Web Co  2.4
+   4097 RDD Process      1.0
+--- System Health Report (Thu Feb 26 11:59:07 PM IST 2026) ---
+CPU : 0.00%
+MEM : 0.00%
+DISK :37
+
+Top CPU processes:
+    PID COMMAND         %CPU
+   3859 firefox         17.4
+   2976 gnome-shell     11.1
+  17289 Isolated Web Co  6.5
+  24771 Isolated Web Co  2.4
+   4097 RDD Process      1.0
+--- System Health Report (Thu Feb 26 11:59:12 PM IST 2026) ---
+CPU : 0.00%
+MEM : 0.00%
+DISK :37
+
+Top CPU processes:
+    PID COMMAND         %CPU
+   3859 firefox         17.4
+   2976 gnome-shell     11.1
+  17289 Isolated Web Co  6.5
+  24771 Isolated Web Co  2.4
+   4097 RDD Process      1.0
+--- System Health Report (Thu Feb 26 11:59:17 PM IST 2026) ---
+CPU : 0.00%
+MEM : 0.00%
+DISK :37
+
+Top CPU processes:
+    PID COMMAND         %CPU
+   3859 firefox         17.4
+   2976 gnome-shell     11.1
+  17289 Isolated Web Co  6.5
+  24771 Isolated Web Co  2.4
+   4097 RDD Process      1.0
+--- System Health Report (Fri Feb 27 12:00:39 AM IST 2026) ---
+CPU : 0.00%
+MEM : 0.00%
+DISK :37
+
+Top CPU processes:
+    PID COMMAND         %CPU
+   3859 firefox         17.3
+   2976 gnome-shell     11.1
+  17289 Isolated Web Co  6.4
+  24771 Isolated Web Co  2.3
+   4097 RDD Process      1.0
+--- System Health Report (Fri Feb 27 12:00:44 AM IST 2026) ---
+CPU : 0.00%
+MEM : 0.00%
+DISK :37
+
+Top CPU processes:
+    PID COMMAND         %CPU
+   3859 firefox         17.3
+   2976 gnome-shell     11.1
+  17289 Isolated Web Co  6.4
+  24771 Isolated Web Co  2.3
+   4097 RDD Process      1.0
+--- System Health Report (Fri Feb 27 12:00:49 AM IST 2026) ---
+CPU : 0.00%
+MEM : 0.00%
+DISK :37
+
+Top CPU processes:
+    PID COMMAND         %CPU
+   3859 firefox         17.3
+   2976 gnome-shell     11.1
+  17289 Isolated Web Co  6.4
+  24771 Isolated Web Co  2.2
+   4097 RDD Process      1.0
+--- System Health Report (Fri Feb 27 12:00:54 AM IST 2026) ---
+CPU : 0.00%
+MEM : 0.00%
+DISK :37
+
+Top CPU processes:
+    PID COMMAND         %CPU
+   3859 firefox         17.3
+   2976 gnome-shell     11.1
+  17289 Isolated Web Co  6.4
+  24771 Isolated Web Co  2.2
+   4097 RDD Process      1.0
+--- System Health Report (Fri Feb 27 12:01:46 AM IST 2026) ---
+CPU : 2.40%
+MEM : 0.00%
+DISK :37
+
+Top CPU processes:
+    PID COMMAND         %CPU
+   3859 firefox         17.2
+   2976 gnome-shell     11.1
+  17289 Isolated Web Co  6.4
+  24771 Isolated Web Co  2.2
+   4097 RDD Process      1.0
+--- System Health Report (Fri Feb 27 12:01:51 AM IST 2026) ---
+CPU : 2.30%
+MEM : 0.00%
+DISK :37
+
+Top CPU processes:
+    PID COMMAND         %CPU
+   3859 firefox         17.2
+   2976 gnome-shell     11.1
+  17289 Isolated Web Co  6.4
+  24771 Isolated Web Co  2.2
+   4097 RDD Process      1.0
+--- System Health Report (Fri Feb 27 12:03:39 AM IST 2026) ---
+CPU : 0.80%
+MEM : 20.99%
+DISK :37
+
+Top CPU processes:
+    PID COMMAND         %CPU
+   3859 firefox         17.2
+   2976 gnome-shell     11.1
+  17289 Isolated Web Co  6.6
+  24771 Isolated Web Co  2.1
+   4097 RDD Process      1.0
+--- System Health Report (Fri Feb 27 12:03:44 AM IST 2026) ---
+CPU : 0.80%
+MEM : 21.00%
+DISK :37
+
+Top CPU processes:
+    PID COMMAND         %CPU
+   3859 firefox         17.2
+   2976 gnome-shell     11.1
+  17289 Isolated Web Co  6.6
+  24771 Isolated Web Co  2.1
+   4097 RDD Process      1.0
+--- System Health Report (Fri Feb 27 12:03:50 AM IST 2026) ---
+CPU : 0.80%
+MEM : 20.99%
+DISK :37
+
+Top CPU processes:
+    PID COMMAND         %CPU
+   3859 firefox         17.2
+   2976 gnome-shell     11.1
+  17289 Isolated Web Co  6.5
+  24771 Isolated Web Co  2.0
+   4097 RDD Process      1.0
+--- System Health Report (Fri Feb 27 12:03:55 AM IST 2026) ---
+CPU : 0.80%
+MEM : 20.99%
+DISK :37
+
+Top CPU processes:
+    PID COMMAND         %CPU
+   3859 firefox         17.1
+   2976 gnome-shell     11.1
+  17289 Isolated Web Co  6.5
+  24771 Isolated Web Co  2.0
+   4097 RDD Process      1.0
