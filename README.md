@@ -1,7 +1,7 @@
-## System Performance Stats (Modular)
+# System Performance Stats (Modular)
 
 A lightweight, modular Linux system monitoring tool written in Bash. This utility provides real-time health reports and logs system metrics including CPU, Memory, Disk usage, and top-consuming processes.
-🚀 Features
+## 🚀 Features
 
     Modular Architecture: Separate logic for CPU, Memory, Disk, and Processes for easy maintenance.
 
@@ -11,7 +11,7 @@ A lightweight, modular Linux system monitoring tool written in Bash. This utilit
 
     Live Monitoring: Continuous execution mode for real-time tracking.
 
-📂 Project Structure
+##📂 Project Structure
     ``` text
     System_Performance_stats/
     ├── modules/
@@ -23,7 +23,7 @@ A lightweight, modular Linux system monitoring tool written in Bash. This utilit
     ├── config.conf.example # Template for configuration
     ├── sys_health.sh       # Main entry point (Execution script)
     └── .gitignore          # Prevents logs and local configs from being tracked```
-# 🛠️ Installation & Usage
+## 🛠️ Installation & Usage
 1. Clone the repository
     ```bash
     git clone https://github.com/ankit-byte9/System_Performance_stats.git
