@@ -13,14 +13,14 @@ A lightweight, modular Linux system monitoring tool written in Bash. This utilit
 
 📂 Project Structure System_Performance_stats/
         ├── modules/
-        │   ├── cpu.sh          # Logic for CPU usage calculation
-        │   ├── memory.sh       # Logic for RAM metrics
-        │   ├── disk.sh         # Logic for disk space analysis
-        │   ├── processes.sh    # Logic for process tracking
-        │   └── misc.sh         # Helper functions
-        ├── config.conf.example # Template for configuration
-        ├── sys_health.sh       # Main entry point (Execution script)
-        └── .gitignore          # Prevents logs and local configs from being tracked
+        │   ├── cpu.sh          
+        │   ├── memory.sh      
+        │   ├── disk.sh         
+        │   ├── processes.sh   
+        │   └── misc.sh        
+        ├── config.conf.example
+        ├── sys_health.sh      
+        └── .gitignore         
 ## 🛠️ Installation & Usage
 1. Clone the repository
     ```bash
