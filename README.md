@@ -11,7 +11,7 @@ A lightweight, modular Linux system monitoring tool written in Bash. This utilit
 
     Live Monitoring: Continuous execution mode for real-time tracking.
 
-##📂 Project Structure System_Performance_stats/
+📂 Project Structure System_Performance_stats/
     ├── modules/
     │   ├── cpu.sh          # Logic for CPU usage calculation
     │   ├── memory.sh       # Logic for RAM metrics
