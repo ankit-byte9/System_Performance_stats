@@ -29,7 +29,7 @@ A lightweight, modular Linux system monitoring tool written in Bash. This utilit
     git clone https://github.com/ankit-byte9/System_Performance_stats.git
     cd System_Performance_stats```
 2. Setup Configuration
-        ```bash
+   ```bash
     Copy the example config to create your local configuration:
     cp config.conf.example config.conf
     (Edit config.conf to change the INTERVAL or LOG_FILE path.)```
@@ -42,7 +42,7 @@ A lightweight, modular Linux system monitoring tool written in Bash. This utilit
     ```bash
     ./sys_health.sh```
 # 📊 Sample Output
-    ``` bash
+ ``` bash
         --- System Health Report (Sat Apr 18 01:05:22 IST 2026) ---
         CPU : 12.45%
         MEM : 45.20%
