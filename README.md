@@ -12,7 +12,7 @@ A lightweight, modular Linux system monitoring tool written in Bash. This utilit
     Live Monitoring: Continuous execution mode for real-time tracking.
 
 ##📂 Project Structure System_Performance_stats/
-    ```├── modules/
+    ├── modules/
     │   ├── cpu.sh          # Logic for CPU usage calculation
     │   ├── memory.sh       # Logic for RAM metrics
     │   ├── disk.sh         # Logic for disk space analysis
@@ -20,7 +20,7 @@ A lightweight, modular Linux system monitoring tool written in Bash. This utilit
     │   └── misc.sh         # Helper functions
     ├── config.conf.example # Template for configuration
     ├── sys_health.sh       # Main entry point (Execution script)
-    └── .gitignore          # Prevents logs and local configs from being tracked```
+    └── .gitignore          # Prevents logs and local configs from being tracked
 ## 🛠️ Installation & Usage
 1. Clone the repository
     ```bash
